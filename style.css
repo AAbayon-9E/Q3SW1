@@ -1,0 +1,30 @@
+body{
+	background-color: #7017c3;
+	background-image: linear-gradient(0deg, #7017c6 0%, #bc79c6 46%, #7e56fe 100%);
+	background-repeat: no-repeat;
+	font-family: Times new Roman;
+	color: goldenrod;
+	text-shadow: 2px 4px 8px rgba(13,0,80,0.8);
+
+
+}
+
+.container{
+	background-color: purple;
+	border-bottom-left-radius: 50px;
+	border-top-right-radius: 70px;
+	-webkit-box-shadow: -1px 1px 103px -33px rgba(77,175,240,1);
+	-moz-box-shadow: -1px 1px 103px -33px rgba(77,175,240,1);
+	box-shadow: -1px 1px 103px -33px rgba(77,175,240,1);
+}
+.header{
+	background-image: url(https://img.freepik.com/premium-photo/old-grunge-dark-textured-wooden-background-surface-old-brown-wood-texture_7182-333.jpg);
+	margin: 30px;
+	padding: 40px;
+	background-repeat: no-repeat;
+	background-position: center;
+	box-shadow: 2px 1px 62px 9px rgba(170,66,208,0.75);
+-webkit-box-shadow: 2px 1px 62px 9px rgba(170,66,208,0.75);
+-moz-box-shadow: 2px 1px 62px 9px rgba(170,66,208,0.75);
+
+}
